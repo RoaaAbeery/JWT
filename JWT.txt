@@ -1,0 +1,13 @@
+
+JWT stands for JSON Web Token.
+
+JWTs are often used for authentication purposes
+
+JWTs are often used for authentication purposes. When a user logs in, a server can create a JWT and send it back to the client. The client then includes this JWT in the headers of subsequent requests, allowing the server to verify the user's identity and make authorization decisions based on the information contained in the token.
+
+
+It is a compact, URL-safe means of representing claims between two parties. 
+
+These claims are often used to transmit information about the user and their authentication state. 
+
+JWTs are commonly used in authentication and authorization protocols, providing a way to securely transmit information between parties.
